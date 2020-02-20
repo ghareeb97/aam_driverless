@@ -1,0 +1,42 @@
+<launch>
+
+
+<arg name="rvizconfig" default="$(find urdf_tutorial)/rviz/urdf.rviz"/>
+
+
+<!-- Launch gazebo -->
+<include file="$(find aam2_description)/launch/gazebo.launch">
+
+ </include>
+
+<node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)"/>
+
+<!-- Load joint controller configuration from YAML file to parameter server -->
+
+<rosparam file="$(find aam2_description)/config/joint_states.yaml" command="load"/>
+
+<rosparam file="$(find aam2_description)/config/diff_drive.yaml" command="load"/>
+
+<rosparam file="$(find aam2_description)/config/pid.yaml" command="load"/>
+
+<!-- load the controllers -->
+<node name="robot_arm_controller_spawner" pkg="controller_manager" type="spawner"
+  respawn="true" output="screen" 
+   args="/Diff_Drive/joint_state_controller
+         /Diff_Drive/diff_drive_controller
+        --shutdown-timeout 3"/>
+
+<!-- convert joint states to TF transforms for rviz, etc -->
+<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"
+    respawn="false" output="screen">
+</node>
+
+<node name="rqt_robot_steering" pkg="rqt_robot_steering" type="rqt_robot_steering">
+  <param name="default_topic" value="/Diff_Drive/diff_drive_controller/cmd_vel"/> 
+</node>
+
+</launch>
+
+ 
+
+
