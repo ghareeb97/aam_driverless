@@ -34,18 +34,26 @@ source /devel/setup.bash
 
 
 Choose one of theses tracks to run and replace the "empty" in the cmd below.
-⋅⋅* empty
-⋅⋅* acceleration
-⋅⋅* skidpad
-⋅⋅* sprint17
-⋅⋅* small_track
-⋅⋅* big_track
+- empty
+- acceleration
+- skidpad
+- sprint17
+- small_track
+- big_track
 
 
 ```roslaunch eufs_gazebo empty.launch```
+
+
 To control the car open another terminal and run:
+
+
 ```roslaunch robot_control rqt_robot_control.launch```
+
+
 To use keyboard open another terminaland run
+
+
 ```rosrun teleop_twist_keyboard teleop_twist_keyboard.py```
 
 
@@ -53,7 +61,7 @@ To use keyboard open another terminaland run
 If your recieved this error while running rqt_robot_control.launch
 
 
-ERROR: cannot launch node of type [robot_control/twist_to_ackermannDrive.py]: can't locate node [twist_to_ackermannDrive.py] in package [robot_control]
+>ERROR: cannot launch node of type [robot_control/twist_to_ackermannDrive.py]: can't locate node [twist_to_ackermannDrive.py] in package [robot_control]
 
 
 Cancel the operation and run the cmds below in the same terminal 
