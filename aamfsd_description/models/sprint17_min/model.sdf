@@ -6,14 +6,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -29,14 +29,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -52,14 +52,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -75,14 +75,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -98,14 +98,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -121,14 +121,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -144,14 +144,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -167,14 +167,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -190,14 +190,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -213,14 +213,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -236,14 +236,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -259,14 +259,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -282,14 +282,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -305,14 +305,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -328,14 +328,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -351,14 +351,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -374,14 +374,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -397,14 +397,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -420,14 +420,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -443,14 +443,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -466,14 +466,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -489,14 +489,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -512,14 +512,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -535,14 +535,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -558,14 +558,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -581,14 +581,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -604,14 +604,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -627,14 +627,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -650,14 +650,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -673,14 +673,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -696,14 +696,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -719,14 +719,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -742,14 +742,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -765,14 +765,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -788,14 +788,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -811,14 +811,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -834,14 +834,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -857,14 +857,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -880,14 +880,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -903,14 +903,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -926,14 +926,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -949,14 +949,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -972,14 +972,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -995,14 +995,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1018,14 +1018,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1041,14 +1041,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1064,14 +1064,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1087,14 +1087,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1110,14 +1110,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1133,14 +1133,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1156,14 +1156,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1179,14 +1179,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1202,14 +1202,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1225,14 +1225,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1248,14 +1248,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1271,14 +1271,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1294,14 +1294,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1317,14 +1317,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1340,14 +1340,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1363,14 +1363,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1386,14 +1386,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1409,14 +1409,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1432,14 +1432,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1455,14 +1455,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1478,14 +1478,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1501,14 +1501,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1524,14 +1524,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1547,14 +1547,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1570,14 +1570,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1593,14 +1593,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1616,14 +1616,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1639,14 +1639,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1662,14 +1662,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1685,14 +1685,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1708,14 +1708,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1731,14 +1731,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1754,14 +1754,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1777,14 +1777,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1800,14 +1800,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1823,14 +1823,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1846,14 +1846,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1869,14 +1869,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1892,14 +1892,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1915,14 +1915,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1938,14 +1938,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1961,14 +1961,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -1984,14 +1984,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2007,14 +2007,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2030,14 +2030,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2053,14 +2053,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2076,14 +2076,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2099,14 +2099,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2122,14 +2122,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2145,14 +2145,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2168,14 +2168,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2191,14 +2191,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2214,14 +2214,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2237,14 +2237,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2260,14 +2260,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2283,14 +2283,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2306,14 +2306,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2329,14 +2329,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2352,14 +2352,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2375,14 +2375,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2398,14 +2398,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2421,14 +2421,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2444,14 +2444,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2467,14 +2467,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2490,14 +2490,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2513,14 +2513,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2536,14 +2536,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2559,14 +2559,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2582,14 +2582,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2605,14 +2605,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2628,14 +2628,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2651,14 +2651,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2674,14 +2674,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2697,14 +2697,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2720,14 +2720,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2743,14 +2743,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2766,14 +2766,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2789,14 +2789,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2812,14 +2812,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2835,14 +2835,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2858,14 +2858,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2881,14 +2881,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>
@@ -2904,14 +2904,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://eufs_description/meshes/cone.dae</uri>
+            <uri>model://aamfsd_description/meshes/cone.dae</uri>
           </mesh>
         </geometry>
         <material>

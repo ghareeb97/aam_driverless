@@ -31,7 +31,7 @@
   </include>
 
   <!-- Load the URDF into the ROS Parameter Server -->
-  <param command="$(find xacro)/xacro '$(find aamfsd_description)/robots/aamfsd.urdf.xacro' --inorder" name="robot_description"/>
+  <param command="$(find xacro)/xacro '$(find aamfsd_description)/robots/aamfsd-dv.urdf.xacro' --inorder" name="robot_description"/>
 
   <!-- Call a python script to the run a service call to gazebo_ros to spawn a URDF robot -->
   <node args="-urdf -model aamfsd -param robot_description 
