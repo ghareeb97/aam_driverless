@@ -29,7 +29,7 @@ Navigate to your workspace and build the simulation:
 
 ```cd ~/aamfsd_ws
 catkin_make
-source /devel/setup.bash
+source devel/setup.bash
 ```
 
 
@@ -42,7 +42,7 @@ Choose one of theses tracks to run and replace the "empty" in the cmd below.
 - big_track
 
 
-```roslaunch eufs_gazebo empty.launch```
+```roslaunch aamfsd_gazebo empty.launch ```
 
 
 To control the car open another terminal and run:
