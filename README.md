@@ -56,8 +56,9 @@ If your recieved this error while running rqt_robot_control.launch
 ERROR: cannot launch node of type [robot_control/twist_to_ackermannDrive.py]: can't locate node [twist_to_ackermannDrive.py] in package [robot_control]
 
 
+Cancel the operation and run the cmds below in the same terminal 
 ```
 roscd robot_control
 chmod +x nodes/twist_to_ackermannDrive.py
 ```
-
+Now rerun and have fun.
