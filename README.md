@@ -1,6 +1,6 @@
 # aam_driverless
 
-- Install ROS packages:
+<b>- Install ROS packages:</b>
 ros-kinetic-ackermann-msgs
 ros-kinetic-twist-mux
 ros-kinetic-joy
