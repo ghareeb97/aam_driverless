@@ -53,6 +53,7 @@ To control the car open another terminal and run:
 
 To use keyboard open another terminaland run
 
+```sudo apt-get install ros-kinetic-teleop-twist-keyboard```
 
 ```rosrun teleop_twist_keyboard teleop_twist_keyboard.py```
 
